@@ -1,7 +1,0 @@
-organization=packinv
-projectKey=packinv-ah_SonarPI
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.65667
-dashboardUrl=https://sonarcloud.io/dashboard?id=packinv-ah_SonarPI
-ceTaskId=AZg8hSPPiyxBruFfE6u9
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZg8hSPPiyxBruFfE6u9
